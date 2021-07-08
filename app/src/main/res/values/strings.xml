@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="tvName">Name:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvIc">NRIC No:</string>
+    <string name="tvAddress">Address:</string>
+</resources>
